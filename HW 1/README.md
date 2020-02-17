@@ -1,6 +1,4 @@
-# Deep-Learning
-
-Homework 1
+# Homework 1
 
 The homework is to apply at least 3 machine learning algorithm to MNIST dataset and compare with the neutral network (NN) example mentioned on class.
 
