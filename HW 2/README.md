@@ -5,4 +5,4 @@ The homework is to implement a few standard models using tensorflow.
 
 and apply them to cat vs dog examples. 
 
-In conclusion, Logistic regression with binary outcome has an accuracy of 
+Using DNN, Logistic regression with binary outcome has an accuracy of 0.582, while Logistic regression with multinomial outcome has an accuracy of 0.524. Linear regression and optimal separating hyperplanes perform little better than random guess (all have accuracy: 0.509). 
